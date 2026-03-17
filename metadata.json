@@ -1,0 +1,5 @@
+{
+  "name": "Sticker Maker",
+  "description": "A comprehensive tool to generate, remove background, split, and rename stickers.",
+  "requestFramePermissions": []
+}
